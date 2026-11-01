@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APK Mapper</string>
+    <string name="action_open_apk">Pick APK</string>
+    <string name="action_installed_apps">Installed Apps</string>
+    <string name="action_map_self">Map Current App</string>
+    <string name="action_share_report">Share Map Report</string>
+    <string name="tab_overview">Structure</string>
+    <string name="tab_components">Components</string>
+    <string name="tab_permissions">Permissions</string>
+    <string name="tab_files">File Tree</string>
+    <string name="tab_security">Security</string>
+</resources>
